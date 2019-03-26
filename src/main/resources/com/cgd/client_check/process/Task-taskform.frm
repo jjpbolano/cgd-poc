@@ -1,0 +1,1 @@
+{"id":"4ae80a50-a3de-4a98-9b89-d48467218ce7","name":"Task-taskform.frm","model":{"taskName":"Task","processId":"client-check.main-process","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
